@@ -1,19 +1,50 @@
-# Dashboard Links
+# 📘 Syllabus Tracker – SVKM's International School
 
-This repository features a centralized PDF dashboard designed for quick navigation to various project-related tools and performance reports. It streamlines access to dashboards used in academic or organizational settings.
+A Power BI + Excel-based dashboard system currently used by SVKM’s International School to track syllabus coverage class-wise and subject-wise.
 
-## 📄 Overview
+![Power BI](https://img.shields.io/badge/PowerBI-Visualization-FAA21B?style=flat&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-DataSource-217346?style=flat&logo=microsoft-excel)
+![Cloud Deployment](https://img.shields.io/badge/Deployed-Cloud-blue)
 
-The PDF includes clickable links that redirect to dashboards covering areas like syllabus tracking, class-wise performance, house-wise reports, and result summaries. It serves as a one-stop access point for data visualization and analysis.
+---
 
-## 🖼️ Preview
+## 🎓 Project Overview
 
-![Dashboard Preview](images/preview.png)
+The **Syllabus Tracker** is an academic project developed to streamline and modernize the tracking of academic progress in schools. Designed specifically for **SVKM's International School**, this system provides a real-time overview of syllabus completion, ensuring efficient planning and execution.
 
-> Make sure to place your preview image inside an `images/` folder in the repository, or update the path if named differently.
+Say goodbye to scattered spreadsheets—this integrated solution ensures all data is visual, centralized, and actionable.
 
-## 🚀 Getting Started
+---
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Ananya-Peddamgari/Svkm-s-Dashboards.git
+## ✨ Key Features
+
+- ✅ Class-wise and Subject-wise syllabus tracking  
+- 📊 Target vs Completed visualizations  
+- 📅 Monthly analysis and filtering  
+- 🧾 Topic-wise status with remarks  
+- 🧠 Insights into pending workload  
+- 🌐 Cloud-deployed and shareable dashboards  
+
+---
+
+## 🧱 Tech Stack
+
+- **Microsoft Excel** – Structured backend data input  
+- **Power BI Desktop** – Dashboard creation  
+- **Power BI Service** – Cloud deployment for web access  
+
+---
+
+## 🖼️ Sample Dashboards
+
+| 🎯 Target & Completion Overview | 📅 Monthly Progress & Pending Topics |
+|------------------------------|--------------------------------------|
+| ![Dashboard 1](first.jpg) | ![Dashboard 2](second.jpg) |
+
+---
+
+- 📄 download the [Dashboard_links.pdf](./Dashboard_links.pdf) for all links
+
+---
+
+
