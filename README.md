@@ -1,1 +1,19 @@
-The Dashboard_Links file in this GitHub repository provides access to the Power BI dashboards that my team and I developed for SVKM's International School. These dashboards include a Syllabus Tracker, which helps monitor syllabus completion across different classes and sections, and a House-Wise Performance Dashboard, which offers insights into student performance in various houses (Ruby, Emerald, Sapphire, and Topaz). Designed to enhance data-driven decision-making, these tools provide an interactive and structured way to assess academic progress and student achievements and We have used their syllabus data to develop and I cannot upload the data we have used to develop this dasboard as per some security concerns
+# Dashboard Links
+
+This repository features a centralized PDF dashboard designed for quick navigation to various project-related tools and performance reports. It streamlines access to dashboards used in academic or organizational settings.
+
+## 📄 Overview
+
+The PDF includes clickable links that redirect to dashboards covering areas like syllabus tracking, class-wise performance, house-wise reports, and result summaries. It serves as a one-stop access point for data visualization and analysis.
+
+## 🖼️ Preview
+
+![Dashboard Preview](images/preview.png)
+
+> Make sure to place your preview image inside an `images/` folder in the repository, or update the path if named differently.
+
+## 🚀 Getting Started
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/dashboard-links.git
