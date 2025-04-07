@@ -16,4 +16,4 @@ The PDF includes clickable links that redirect to dashboards covering areas like
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/dashboard-links.git
+   git clone https://github.com/Ananya-Peddamgari/Svkm-s-Dashboards.git
